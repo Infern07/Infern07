@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Infern07
+- 👋 Hi, I’m Jay Pandya
 - 👀 I’m interested in coding, chess
 - 🌱 I’m currently learning html css
 - 📫 How to reach me Linkedin, Discord, Instagram
