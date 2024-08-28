@@ -1,6 +1,6 @@
 -  <p align="center">👋 Hi, I’m Jay Pandya </p>
 -  A student at **Sardar Vallabhbhai Patel Institute of Technology, Vasad** studying **B.E.  Computer Science and Design**
--  My portfolio website - jaypandya.vercel.app
+-  My portfolio website - [jaypandya.vercel.app](https://jaypandya.vercel.app/)
 - 👀 I’m interested in coding, chess and *drawing*
 - 🌱 I’m currently learning **Java Script and exploring web3**
 - 📫 How to reach me jaypandya428@gmail.com 
