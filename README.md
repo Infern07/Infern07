@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jay Pandya<br><br>A student at Sardar Vallabhbhai Patel Institute of Technology, Vasad studying B.E. Computer Science and Design<br>✨My portfolio website - jaypandya.vercel.app<br>👀 I’m interested in coding, chess and drawing<br>🌱 I’m currently learning Java Script and exploring web3<br>📫 How to reach me - jaypandya428@gmail.com<br>👉 I'm on Discord as inferno9912
+👋 Hi, I’m Jay Pandya<br><br>A student at Sardar Vallabhbhai Patel Institute of Technology, Vasad studying B.E. Computer Science and Design<br>✨My portfolio website - [jaypandya.tech](https://www.jaypandya.tech/)<br>👀 I’m interested in coding, chess and drawing<br>🌱 I’m currently learning Java Script and exploring web3<br>📫 How to reach me - jaypandya428@gmail.com<br>👉 I'm on Discord as inferno9912
 
 
 ## 🌐 Socials:
