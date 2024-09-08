@@ -1,22 +1,21 @@
--  <p align="center">👋 Hi, I’m Jay Pandya </p>
--  A student at **Sardar Vallabhbhai Patel Institute of Technology, Vasad** studying **B.E.  Computer Science and Design**
--  My portfolio website - [jaypandya.vercel.app](https://jaypandya.vercel.app/)
-- 👀 I’m interested in coding, chess and *drawing*
-- 🌱 I’m currently learning **Java Script and exploring web3**
-- 📫 How to reach me jaypandya428@gmail.com 
-- 👉 I'm on Discord as ! Inferno#0007
-- ⚡ Connect with me:
-
-[![image](https://user-images.githubusercontent.com/113614843/217881568-0b2e736c-06be-49d0-9ec6-01c517c9d1ce.png)](https://twitter.com/JP_0017) [![image](https://user-images.githubusercontent.com/113614843/217881727-83dbe915-ea72-415a-b658-15452ed23af6.png)](https://www.instagram.com/jaypandya9904/) [![image](https://user-images.githubusercontent.com/113614843/217882035-aaad2b8f-7d73-4f40-9c38-f23237def490.png)](https://www.linkedin.com/in/jay-pandya9904/)
+# 💫 About Me:
+👋 Hi, I’m Jay Pandya<br><br>A student at Sardar Vallabhbhai Patel Institute of Technology, Vasad studying B.E. Computer Science and Design<br>✨My portfolio website - jaypandya.vercel.app<br>👀 I’m interested in coding, chess and drawing<br>🌱 I’m currently learning Java Script and exploring web3<br>📫 How to reach me - jaypandya428@gmail.com<br>👉 I'm on Discord as inferno9912
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/inferno9912) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaypandya9904) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaypandya9904) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JP_0017) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Infern07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Infern07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Infern07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Infern07&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Infern07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-                    
-
-<!---
-Infern07/Infern07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
